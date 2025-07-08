@@ -1,6 +1,6 @@
 # webscraping-skincare-product-details
 
-# Product Data Extraction and Analysis
+## Product Data Extraction and Analysis
 
 This project scrapes product information, including names, brands, prices, images, barcodes, and ingredients, from a skincare website. It then analyzes the extracted data to identify products that share common ingredients.
 
